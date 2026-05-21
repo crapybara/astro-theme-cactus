@@ -2,9 +2,8 @@
 title: "Introducing GammaFit"
 description: "A lightweight self-care and fitness tracking platform focused on long-term progression, consistency, and local-first design."
 publishDate: "21 May 2026"
+updatedDate: "24 May 2026"
 tags: ["test"]
-updatedDate: 24 May 2026
-pinned: true
 ---
 
 ## What is GammaFit
@@ -117,8 +116,72 @@ Analytics currently includes:
 
 GammaFit currently uses:
 
-```text
-Go
-SQLite
-HTMX
-Docker
+- Go
+- SQLite
+- HTMX
+- Docker
+
+Architecture goals:
+
+- Low RAM usage
+- Low CPU overhead
+- Reliable self-hosted deployment
+- Lightweight backend performance
+- Local-first workflows
+
+---
+
+## Self-Hosting & Deployment
+
+Current deployment targets:
+
+- Docker
+- Linux systems
+- Home servers
+- Lightweight VPS environments
+
+Planned deployment targets:
+
+- Native Linux builds
+- Native Windows builds
+- Mobile-friendly self-hosted access
+
+---
+
+## Planned Features
+
+Future updates planned for GammaFit include:
+
+- CSV export support
+- Excel export support
+- Database backup/export tools
+- Expanded analytics systems
+- Improved progression visualization
+- Additional tracking systems
+- Native desktop builds
+- Improved self-hosted workflows
+
+---
+
+## Philosophy
+
+GammaFit is designed around a simple idea:
+
+> Software should support long-term human progression instead of encouraging short-term engagement loops.
+
+Core principles:
+
+- Consistency
+- Progression
+- Local-first usability
+- Data ownership
+- Low system overhead
+- Long-term sustainability
+
+GammaFit is intended to function as a long-term progression and self-development platform rather than a temporary motivation tool.
+
+---
+
+## GitHub Repository
+
+https://github.com/crapybara/gama-fit
