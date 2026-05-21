@@ -184,8 +184,8 @@ Core principles:
 GammaFit is intended to function as a long-term progression and self-development platform rather than a temporary motivation tool.
 
 ---
-
 ## GitHub Repository
 
-```
+https://github.com/crapybara/gama-fit
+
 ```
