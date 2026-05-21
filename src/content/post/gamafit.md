@@ -2,8 +2,8 @@
 title: "Introducing GammaFit"
 description: "A lightweight self-care and fitness tracking platform focused on long-term progression, consistency, and local-first design."
 publishDate: "21 May 2026"
-updatedDate: "21 May 2026"
 tags: ["test"]
+updatedDate: 21 May 2026
 ---
 
 ## What is GammaFit
